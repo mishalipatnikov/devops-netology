@@ -1,4 +1,5 @@
 Задача 1.</br>
+<<<<<<< HEAD
 https://hub.docker.com/repository/docker/mishalipatnikov/server-nginx </br>
 Задача 2. </br>
 Высоконагруженное монолитное java веб-приложение;</br>
@@ -65,4 +66,5 @@ Gitlab сервер для реализации CI/CD процессов и пр
     [root@bbd5d7e2c2e8 data]# cat host_file
     host_machine
     [root@bbd5d7e2c2e8 data]# cat file_1
+    centos_1
     centos_1
