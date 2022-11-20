@@ -1,0 +1,18 @@
+{
+    "builders": [
+      {
+        "type": "yandex",
+        "folder_id": "b1gvvtkibf0p4g3i3pgg",
+        "zone": "ru-central1-a",
+        "token" : "",
+        "image_name": "centos-8-base",
+        "image_family": "centos-base",
+        "image_description": "CentOS8 base image",
+        "source_image_family": "centos-8",
+        "subnet_id": "e9be6jttamgv2fhmqu9k",
+        "use_ipv4_nat": true,
+        "disk_type": "network-ssd",
+        "ssh_username": "service"
+      }
+    ]
+}
