@@ -81,6 +81,10 @@
 
 ------
 
+![Dashboard](https://github.com/mishalipatnikov/devops-netology/blob/main/kuber-1.1/dashboard.png)
+![microk8s kubectl get nodes](https://github.com/mishalipatnikov/devops-netology/blob/main/kuber-1.1/microk8s.png)
+![kubectl get nodes](https://github.com/mishalipatnikov/devops-netology/blob/main/kuber-1.1/kubectl.png)
+
 ### Критерии оценки
 Зачёт — выполнены все задания, ответы даны в развернутой форме, приложены соответствующие скриншоты и файлы проекта, в выполненных заданиях нет противоречий и нарушения логики.
 
